@@ -22,7 +22,7 @@ export class Tab1Page {
   async presentAlert1() {
     const alert = await this.alertController.create({
       header: 'Alerta',
-      subHeader: 'mensaje ',
+      subHeader: 'mensaje 323423423423423',
       message: 'Buenas noches por cierto',
       buttons: ['COMO ASI'],
     });
